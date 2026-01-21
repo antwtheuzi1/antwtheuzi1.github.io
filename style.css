@@ -1,0 +1,30 @@
+body{
+  background-color: lightyellow;
+  font-family: Arial;
+}
+
+nav{
+  background-color: tan;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a{
+  color: black;
+  text-decoration: none;
+  margin: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+main{
+  padding: 15px;
+}
+
+footer{
+  background-color: tan;
+  text-align: center;
+  padding: 10px;
+}
